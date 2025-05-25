@@ -3007,3 +3007,137 @@ Sampler Limit: 32
 [2025.05.25-14.07.28:159][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2025.05.25-14.07.28:177][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2025.05.25-14.07.28:269][979]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.25-14.08.05:755][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.25-14.08.07:980][283]LogSlate: Window 'Save Content' being destroyed
+[2025.05.25-14.08.08:590][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.08.08:738][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-14.08.08:753][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.25-14.08.08:769][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.25-14.08.08:773][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7C/6P6ULNYTVLRAHVDXZ7GJOH
+[2025.05.25-14.08.08:775][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/6P6ULNYTVLRAHVDXZ7GJOH62EE72D6422BA56BB752D78674EAAADE.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7C/6P6ULNYTVLRAHVDXZ7GJOH.uasset'
+[2025.05.25-14.08.08:779][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G
+[2025.05.25-14.08.08:781][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/J59PXEEZ6YTRH5VLQKSY8GCDC570BF45379B8919CAAE923440961E.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G.uasset'
+[2025.05.25-14.08.08:784][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5
+[2025.05.25-14.08.08:785][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/K05JXKHMXDGT7WXD50IFU508B4D8D945EAA6955400DB8BD9DFF813.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5.uasset'
+[2025.05.25-14.08.08:788][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE
+[2025.05.25-14.08.08:788][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9CKKXK5FVWYBTUYZOSADPE6733DD5C4D8C6EDAEBB02CB582865489.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE.uasset'
+[2025.05.25-14.08.08:797][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A
+[2025.05.25-14.08.08:798][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/JT5MQR51XLA735SG3UXV5A348AB61A4AC4EF5F18F6A8A0CF035705.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A.uasset'
+[2025.05.25-14.08.08:802][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B
+[2025.05.25-14.08.08:803][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/634TJ9EN3CQHW3MU3QPL2B5F93A3C14B3A6457E355F09AFF2946E2.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B.uasset'
+[2025.05.25-14.08.08:809][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P
+[2025.05.25-14.08.08:811][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VD5R94GBBFJX5POMRN233PB66B5CE846A407DB3D4509AE5F1E8DB8.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P.uasset'
+[2025.05.25-14.08.08:815][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY
+[2025.05.25-14.08.08:816][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9AOXR07YYDKA9TI1TL86QY82C202B44982AE9C0EC231AA5DBB9905.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY.uasset'
+[2025.05.25-14.08.08:821][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI
+[2025.05.25-14.08.08:822][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/MM7PD0LCBEF79SNJ52T1RIDFAC88A844DE0D68709329AFDF7E06F5.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI.uasset'
+[2025.05.25-14.08.08:828][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE
+[2025.05.25-14.08.08:829][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/29QZBG9SBOHWNTC6DPUHAE0CF2BB214C50EE4FE22355BFE8288D7D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE.uasset'
+[2025.05.25-14.08.08:834][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H
+[2025.05.25-14.08.08:835][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VREMRQ5MUEO4EC67I8RZ9HE26454304F0B8FE7D2954ABF94DFC49C.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H.uasset'
+[2025.05.25-14.08.08:838][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2
+[2025.05.25-14.08.08:839][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/EMUN9I015FO6ZLU366DHB2CDCD31E6467D1656223944BEB93A2977.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2.uasset'
+[2025.05.25-14.08.08:844][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z
+[2025.05.25-14.08.08:845][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/KDQN89BMHDVXS6178FM17Z5A78A2EB403526D9CE497DA51934080A.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z.uasset'
+[2025.05.25-14.08.08:849][314]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW
+[2025.05.25-14.08.08:851][314]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/OAGSJSC84C8UDW9LI3W1CWFD99ABA747D64EC2D19DED87DA0DA6C8.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW.uasset'
+[2025.05.25-14.08.08:893][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.302 ms (total: 4.43 sec)
+[2025.05.25-14.08.09:037][314]LogContentValidation: Display: Starting to validate 14 assets
+[2025.05.25-14.08.09:037][314]LogContentValidation: Enabled validators:
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-14.08.09:037][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-14.08.09:037][314]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-14.08.09:657][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.25-14.08.10:849][344]LogSlate: Window 'Save Content' being destroyed
+[2025.05.25-14.08.10:906][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.08.11:032][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeFloor] ([1] browsable assets)...
+[2025.05.25-14.08.11:090][344]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Materials/M_PrototypeFloor.M_PrototypeFloor]
+[2025.05.25-14.08.11:090][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeFloor]
+[2025.05.25-14.08.11:100][344]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeFloor
+[2025.05.25-14.08.11:100][344]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/M_PrototypeFloorD4C0DC55402DC039E7E3C18FD4949B06.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/LevelPrototyping/Materials/M_PrototypeFloor.uasset'
+[2025.05.25-14.08.11:103][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/T_FlatBlueprint] ([1] browsable assets)...
+[2025.05.25-14.08.11:103][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/T_FlatBlueprint]
+[2025.05.25-14.08.11:103][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_FlatBlueprint" FILE="../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/T_FlatBlueprint.uasset" SILENT=true
+[2025.05.25-14.08.11:117][344]LogSavePackage: Moving output files for package: /Game/T_FlatBlueprint
+[2025.05.25-14.08.11:117][344]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/T_FlatBlueprint88187229422DE22D68E10FA447649471.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/T_FlatBlueprint.uasset'
+[2025.05.25-14.08.11:119][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/T_FlatBlueprint_Mat] ([1] browsable assets)...
+[2025.05.25-14.08.11:120][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/T_FlatBlueprint_Mat]
+[2025.05.25-14.08.11:123][344]LogSavePackage: Moving output files for package: /Game/T_FlatBlueprint_Mat
+[2025.05.25-14.08.11:123][344]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/T_FlatBlueprint_Mat9CD978FA4ED032F66FFD72AB9FFE441B.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/T_FlatBlueprint_Mat.uasset'
+[2025.05.25-14.08.11:151][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.201 ms (total: 4.67 sec)
+[2025.05.25-14.08.11:240][344]LogStall: Shutdown...
+[2025.05.25-14.08.11:240][344]LogStall: Shutdown complete.
+[2025.05.25-14.08.11:296][344]LogSlate: Window 'ld_First_BlockOut - Unreal Editor' being destroyed
+[2025.05.25-14.08.11:298][344]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.05.25-14.08.11:507][344]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.25-14.08.11:507][344]LogContentValidation: Enabled validators:
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-14.08.11:507][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-14.08.11:507][344]AssetCheck: /Game/LevelPrototyping/Materials/M_PrototypeFloor Validating asset
+[2025.05.25-14.08.11:507][344]AssetCheck: /Game/T_FlatBlueprint Validating asset
+[2025.05.25-14.08.11:508][344]AssetCheck: /Game/T_FlatBlueprint_Mat Validating asset
+[2025.05.25-14.08.11:518][344]Cmd: QUIT_EDITOR
+[2025.05.25-14.08.11:518][344]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.25-14.08.11:536][345]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.25-14.08.11:538][345]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.25-14.08.11:538][345]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.25-14.08.11:544][345]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:545][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:545][345]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.05.25-14.08.11:572][345]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.25-14.08.11:579][345]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.25-14.08.11:602][345]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:602][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:604][345]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:604][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:604][345]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:605][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:605][345]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:605][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:608][345]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:608][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:612][345]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.08.11:612][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.08.11:620][345]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.25-14.08.11:628][345]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.25-14.08.11:629][345]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.25-14.08.11:629][345]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.25-14.08.12:194][345]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.25-14.08.12:194][345]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.25-14.08.12:194][345]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.05.25-14.08.12:194][345]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.25-14.08.12:194][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.25-14.08.12:198][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.25-14.08.12:216][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.25-14.08.12:216][345]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.25-14.08.12:228][345]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.25-14.08.12:229][345]LogExit: Preparing to exit.
+[2025.05.25-14.08.12:313][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.25-14.08.13:512][345]LogEditorDataStorage: Deinitializing
+[2025.05.25-14.08.13:702][345]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.25-14.08.13:762][345]LogExit: Editor shut down
+[2025.05.25-14.08.13:769][345]LogExit: Transaction tracking system shut down
+[2025.05.25-14.08.14:233][345]LogExit: Object subsystem successfully closed.
+[2025.05.25-14.08.14:252][345]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.25-14.08.14:457][345]LogMemoryProfiler: Shutdown
+[2025.05.25-14.08.14:459][345]LogNetworkingProfiler: Shutdown
+[2025.05.25-14.08.14:459][345]LoadingProfiler: Shutdown
+[2025.05.25-14.08.14:459][345]LogTimingProfiler: Shutdown
+[2025.05.25-14.08.15:250][345]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.25-14.08.15:272][345]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.25-14.08.15:272][345]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B503F584D-4711-C8E6-E8E2-61B734B6005E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=60cca3e0478ddf2e190869b03bdcd466%7Cf10cc2ec206d42d59dd19448336d0fc2%7Cbc8ebaf6-3303-4272-bbe2-c45be51fcf08&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.25-14.08.15:815][345]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.25-14.08.15:815][345]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.25-14.08.15:815][345]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.25-14.08.15:830][345]RenderDocPlugin: plugin has been unloaded.
+[2025.05.25-14.08.15:847][345]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.25-14.08.15:847][345]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.25-14.08.15:847][345]LogPakFile: Destroying PakPlatformFile
