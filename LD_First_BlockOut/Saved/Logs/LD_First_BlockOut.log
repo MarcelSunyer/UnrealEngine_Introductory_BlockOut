@@ -3386,3 +3386,40 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-11.05.19:253][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.25-11.05.19:253][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.25-11.05.19:253][ 17]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-11.08.47:007][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-11.08.52:537][673]Cmd: EDIT COPY
+[2025.05.25-11.08.52:726][683]Cmd: EDIT PASTE
+[2025.05.25-11.08.58:929][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-11.09.13:758][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-11.09.19:132][212]Cmd: TRANSACTION UNDO
+[2025.05.25-11.09.19:133][212]LogEditorTransaction: Undo Scale Elements
+[2025.05.25-11.09.20:258][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-11.09.34:831][103]Cmd: TRANSACTION UNDO
+[2025.05.25-11.09.34:832][103]LogEditorTransaction: Undo Move Elements
+[2025.05.25-11.09.40:171][392]Cmd: DELETE
+[2025.05.25-11.09.40:171][392]Cmd: ACTOR DELETE
+[2025.05.25-11.09.40:173][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-11.09.40:207][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.25-11.09.40:212][392]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.05.25-11.09.44:643][638]Cmd: EDIT COPY
+[2025.05.25-11.09.44:834][648]Cmd: EDIT PASTE
+[2025.05.25-11.09.56:375][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-11.09.56:510][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.25-11.09.56:533][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.25-11.09.56:551][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.25-11.09.56:555][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.05.25-11.09.56:556][307]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Saved/1ZJ54FMA0DAL3I2Q8RFAIB0EF5C87F4CD19499725F8787B351A777.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.05.25-11.09.56:560][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9I/62S9ZR0IFQ9OH156MOB897
+[2025.05.25-11.09.56:560][307]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Saved/62S9ZR0IFQ9OH156MOB897412A30BC478F7A795746B0AE15B2B49D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9I/62S9ZR0IFQ9OH156MOB897.uasset'
+[2025.05.25-11.09.56:564][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AB/I4DX484913QA73ENXNZBWO
+[2025.05.25-11.09.56:564][307]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Saved/I4DX484913QA73ENXNZBWOF509BCE242E0EDE82DA38FAF8F75164A.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AB/I4DX484913QA73ENXNZBWO.uasset'
+[2025.05.25-11.09.56:603][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.633 ms (total: 2.17 sec)
+[2025.05.25-11.09.56:724][307]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.25-11.09.56:724][307]LogContentValidation: Enabled validators:
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-11.09.56:724][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-11.09.56:724][307]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
