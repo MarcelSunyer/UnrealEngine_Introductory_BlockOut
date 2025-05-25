@@ -991,3 +991,41 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-11.41.22:038][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
 [2025.05.25-11.41.22:038][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
 [2025.05.25-11.41.22:038][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.05.25-11.41.22:183][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1583 MiB)
+[2025.05.25-11.41.22:183][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.05.25-11.41.22:183][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.05.25-11.41.22:185][  0]LogZenServiceInstance: Found Zen config default=C:/Users/marce/AppData/Local/UnrealEngine/Common/Zen/Data
+[2025.05.25-11.41.22:185][  0]LogZenServiceInstance: InTree version at 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+[2025.05.25-11.41.22:186][  0]LogZenServiceInstance: Installed version at 'C:/Users/marce/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+[2025.05.25-11.41.22:186][  0]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2025.05.25-11.41.22:186][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/marce/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/marce/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/marce/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\marce\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 27312 --child-id Zen_27312_Startup'
+[2025.05.25-11.41.22:393][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.05.25-11.41.22:394][  0]LogZenServiceInstance: Local ZenServer AutoLaunch initialization completed in 0.208 seconds
+[2025.05.25-11.41.22:398][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2025.05.25-11.41.22:469][  0]LogDerivedDataCache: C:/Users/marce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.07 seconds.
+[2025.05.25-11.41.22:470][  0]LogDerivedDataCache: Display: C:/Users/marce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.15ms. RandomReadSpeed=98.87MBs, RandomWriteSpeed=15.57MBs. Assigned SpeedClass 'Local'
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Local: Using data cache path C:/Users/marce/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: ZenShared: Disabled because Host is set to 'None'
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Unable to find inner node ZenShared for hierarchy Hierarchy.
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Shared: Disabled because no path is configured.
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2025.05.25-11.41.22:477][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2025.05.25-11.41.22:479][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/Shaders/WorkingDirectory/27312/).
+[2025.05.25-11.41.22:479][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/marce/AppData/Local/Temp/UnrealShaderWorkingDir/126145AB45D004CC67565088D544877C/'.
+[2025.05.25-11.41.22:479][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.05.25-11.41.22:479][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2025.05.25-11.41.22:486][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.05.25-11.41.22:506][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.05.25-11.41.23:542][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.05.25-11.41.26:767][  0]LogSlate: Using FreeType 2.10.0
+[2025.05.25-11.41.26:768][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.05.25-11.41.26:773][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.05.25-11.41.26:773][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.05.25-11.41.26:776][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.05.25-11.41.26:777][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.05.25-11.41.26:777][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.05.25-11.41.26:777][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.05.25-11.41.26:829][  0]LogAssetRegistry: FAssetRegistry took 0.0093 seconds to start up
+[2025.05.25-11.41.26:835][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.05.25-11.41.26:841][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/CachedAssetRegistry_*.bin.
