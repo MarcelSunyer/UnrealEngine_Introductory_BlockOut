@@ -1029,3 +1029,99 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-11.41.26:829][  0]LogAssetRegistry: FAssetRegistry took 0.0093 seconds to start up
 [2025.05.25-11.41.26:835][  0]LogEditorDomain: Display: EditorDomain is Disabled
 [2025.05.25-11.41.26:841][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/CachedAssetRegistry_*.bin.
+[2025.05.25-11.41.27:468][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-11.41.27:532][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.05.25-11.41.27:532][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.05.25-11.41.27:532][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.05.25-11.41.27:581][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.05.25-11.41.27:581][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.05.25-11.41.27:661][  0]LogDeviceProfileManager: Active device profile: [000005A2B4563C00][000005A2B4718000 66] WindowsEditor
+[2025.05.25-11.41.27:661][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.05.25-11.41.27:664][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
+[2025.05.25-11.41.27:675][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/LD_First_BlockOut.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/TurnkeyReport_1.log" -log="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/TurnkeyLog_1.log" -project="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/LD_First_BlockOut.uproject"  -Device=Win64@MARCEL'
+[2025.05.25-11.41.27:675][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/LD_First_BlockOut.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/TurnkeyReport_1.log" -log="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/Intermediate/TurnkeyLog_1.log" -project="C:/Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/LD_First_BlockOut/LD_First_BlockOut.uproject"  -Device=Win64@MARCEL" -nocompile -nocompileuat ]
+[2025.05.25-11.41.27:825][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:826][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 18 to allow recursive sync load to finish
+[2025.05.25-11.41.27:826][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.27:827][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:827][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 19 to allow recursive sync load to finish
+[2025.05.25-11.41.27:827][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.27:827][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:828][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 20 to allow recursive sync load to finish
+[2025.05.25-11.41.27:828][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.27:829][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:829][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 21 to allow recursive sync load to finish
+[2025.05.25-11.41.27:829][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.27:829][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 23 to allow recursive sync load to finish
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 24 to allow recursive sync load to finish
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.05.25-11.41.27:831][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:832][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:832][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 26 to allow recursive sync load to finish
+[2025.05.25-11.41.27:832][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:833][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:833][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 27 to allow recursive sync load to finish
+[2025.05.25-11.41.27:833][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:833][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:835][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDiffuse with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 29 to allow recursive sync load to finish
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 30 to allow recursive sync load to finish
+[2025.05.25-11.41.27:836][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2025.05.25-11.41.27:838][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:839][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 28 to allow recursive sync load to finish
+[2025.05.25-11.41.27:839][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:840][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:840][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 31 to allow recursive sync load to finish
+[2025.05.25-11.41.27:840][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.05.25-11.41.27:841][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 25 to allow recursive sync load to finish
+[2025.05.25-11.41.27:841][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.05.25-11.41.27:841][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 32 to allow recursive sync load to finish
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 22 to allow recursive sync load to finish
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 33 to allow recursive sync load to finish
+[2025.05.25-11.41.27:842][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.05.25-11.41.28:322][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.05.25-11.41.28:322][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.05.25-11.41.28:322][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.05.25-11.41.28:322][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.05.25-11.41.28:322][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.05.25-11.41.29:604][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 1.81ms
+[2025.05.25-11.41.29:608][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2025.05.25-11.41.29:653][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 1.37ms
+[2025.05.25-11.41.29:681][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 1.43ms
+[2025.05.25-11.41.29:685][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 1.21ms
+[2025.05.25-11.41.30:094][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.05.25-11.41.30:095][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.05.25-11.41.30:104][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.05.25-11.41.30:104][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.05.25-11.41.30:111][  0]LogLiveCoding: Display: First instance in process group "UE_LD_First_BlockOut_0xdd78cd9d", spawning console
+[2025.05.25-11.41.30:123][  0]LogLiveCoding: Display: Waiting for server
+[2025.05.25-11.41.30:168][  0]LogSlate: Border
+[2025.05.25-11.41.30:168][  0]LogSlate: BreadcrumbButton
+[2025.05.25-11.41.30:168][  0]LogSlate: Brushes.Title
+[2025.05.25-11.41.30:168][  0]LogSlate: Default
+[2025.05.25-11.41.30:168][  0]LogSlate: Icons.Save
+[2025.05.25-11.41.30:168][  0]LogSlate: Icons.Toolbar.Settings
+[2025.05.25-11.41.30:168][  0]LogSlate: ListView
+[2025.05.25-11.41.30:168][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.05.25-11.41.30:168][  0]LogSlate: SoftwareCursor_Grab
+[2025.05.25-11.41.30:168][  0]LogSlate: TableView.DarkRow
+[2025.05.25-11.41.30:168][  0]LogSlate: TableView.Row
+[2025.05.25-11.41.30:168][  0]LogSlate: TreeView
+[2025.05.25-11.41.30:448][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.05.25-11.41.30:450][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.953 ms
+[2025.05.25-11.41.30:483][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 2.48ms
+[2025.05.25-11.41.30:539][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.05.25-11.41.30:540][  0]LogInit: XR: MultiViewport is Disabled
+[2025.05.25-11.41.30:540][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.05.25-11.41.30:541][  0]LogTurnkeySupport: Turnkey Device: Win64@Marcel: (Name=Marcel, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26100.0, Flags="Device_InstallSoftwareValid")
