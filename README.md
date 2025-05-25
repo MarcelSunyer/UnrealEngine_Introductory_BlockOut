@@ -60,17 +60,4 @@ This approach improves level readability and supports rapid design iteration.
 ## 🔥 Build & Delivery
 
 - Project packaged and ready to run on Windows
-- Includes a short (< 2 minutes) demo video showing all required content
-
----
-
-## 📅 Schedule
-
-- 🛠 Basic blockout & design: *May 8–20*
-- 🎨 Materials & Blueprints: *May 22–29*
-- ✅ Final submission: *June 1st*
-
----
-
-## 📁 Project Structure
 
