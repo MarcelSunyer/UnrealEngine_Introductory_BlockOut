@@ -1837,3 +1837,1173 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-13.47.51:472][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.25-13.47.51:474][301]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
 [2025.05.25-13.47.51:516][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-13.53.03:267][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2011.224487
+[2025.05.25-13.53.04:264][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-13.53.04:264][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2011.889038, Update Interval: 334.379089
+[2025.05.25-13.54.55:046][588]Cmd: EDIT COPY
+[2025.05.25-13.54.55:258][597]Cmd: EDIT PASTE
+[2025.05.25-13.55.03:246][ 41]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.25-13.55.06:744][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.25-13.55.09:371][376]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-13.55.09:464][376]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.25-13.55.14:805][673]Cmd: TRANSACTION UNDO
+[2025.05.25-13.55.14:805][673]LogEditorTransaction: Undo Place Objects
+[2025.05.25-13.55.24:117][ 91]LogContentBrowser: Attempting asset rename: MI_PrototypeGrid_Gray1 -> MI_PrototypeGrid_Glass
+[2025.05.25-13.55.24:359][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-13.55.24:360][ 91]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass] ([1] browsable assets)...
+[2025.05.25-13.55.24:369][ 91]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass.MI_PrototypeGrid_Glass]
+[2025.05.25-13.55.24:369][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass]
+[2025.05.25-13.55.24:373][ 91]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass
+[2025.05.25-13.55.24:373][ 91]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/MI_PrototypeGrid_Glass39DCC290480CE00DC9274DAB9FC79A28.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Glass.uasset'
+[2025.05.25-13.55.24:374][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.996 ms (total: 355.307 ms)
+[2025.05.25-13.55.24:403][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.25-13.55.24:417][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.25-13.55.24:428][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: Enabled validators:
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-13.55.24:530][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-13.55.24:530][ 91]AssetCheck: /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass Validating asset
+[2025.05.25-13.55.25:382][138]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass.MI_PrototypeGrid_Glass
+[2025.05.25-13.55.25:393][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.05.25-13.55.25:393][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.05.25-13.55.25:393][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.05.25-13.55.25:393][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.05.25-13.55.25:393][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.05.25-13.55.25:393][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.05.25-13.55.25:393][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.05.25-13.55.25:394][138]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.05.25-13.55.25:394][138]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.05.25-13.55.25:427][138]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.25-13.55.25:435][138]LogStreaming: Display: FlushAsyncLoading(352): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-13.55.41:700][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.25-13.55.42:413][980]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.25-13.55.42:478][980]LogSlate: Window 'MI_PrototypeGrid_Glass' being destroyed
+[2025.05.25-13.55.42:532][980]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Glass.MI_PrototypeGrid_Glass
+	Asset Type: MaterialInstanceConstant
+[2025.05.25-13.55.42:772][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.25-13.55.42:788][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.25-13.55.42:799][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.05.25-13.55.53:365][596]LogContentBrowser: Attempting asset rename: M_PrototypeGrid1 -> M_PrototypeGlass
+[2025.05.25-13.55.53:488][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-13.55.53:488][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeGlass] ([1] browsable assets)...
+[2025.05.25-13.55.56:138][596]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Materials/M_PrototypeGlass.M_PrototypeGlass]
+[2025.05.25-13.55.56:138][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeGlass]
+[2025.05.25-13.55.56:144][596]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGlass
+[2025.05.25-13.55.56:144][596]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/M_PrototypeGlass22AF2D8245A44EAB09228C8DDADCD2BA.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/LevelPrototyping/Materials/M_PrototypeGlass.uasset'
+[2025.05.25-13.55.56:146][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.65 sec (total: 3.01 sec)
+[2025.05.25-13.55.56:167][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.05.25-13.55.56:177][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.25-13.55.56:187][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.05.25-13.55.56:313][596]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-13.55.56:313][596]LogContentValidation: Enabled validators:
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-13.55.56:313][596]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-13.55.56:313][596]AssetCheck: /Game/LevelPrototyping/Materials/M_PrototypeGlass Validating asset
+[2025.05.25-13.55.57:253][637]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Materials/M_PrototypeGlass.M_PrototypeGlass
+[2025.05.25-13.55.57:264][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: Shader Count: 0
+[2025.05.25-13.55.57:902][637]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.55.57:910][637]LogSlate: Took 0.000585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Shader Count: 5
+[2025.05.25-13.55.58:136][639]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.56.08:638][167]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: Shader Count: 0
+[2025.05.25-13.56.08:665][167]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Shader Count: 5
+[2025.05.25-13.56.08:710][168]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.56.10:605][267]LogEditorTransaction: Undo Edit Default Value
+[2025.05.25-13.56.10:821][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.25-13.56.11:117][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.05.25-13.56.15:060][431]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: Shader Count: 0
+[2025.05.25-13.56.15:082][431]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Shader Count: 5
+[2025.05.25-13.56.15:130][432]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.56.17:381][551]LogMaterialEditor: Saving and Compiling material M_PrototypeGlass
+[2025.05.25-13.56.17:467][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.25-13.56.17:682][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.05.25-13.56.17:700][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-13.56.17:796][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeGlass] ([1] browsable assets)...
+[2025.05.25-13.56.17:806][551]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Materials/M_PrototypeGlass.M_PrototypeGlass]
+[2025.05.25-13.56.17:806][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeGlass]
+[2025.05.25-13.56.17:811][551]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGlass
+[2025.05.25-13.56.17:812][551]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/M_PrototypeGlass19C702A348A662DD986108B70BC86F1A.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/LevelPrototyping/Materials/M_PrototypeGlass.uasset'
+[2025.05.25-13.56.17:827][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.981 ms (total: 3.14 sec)
+[2025.05.25-13.56.17:917][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-13.56.17:917][551]LogContentValidation: Enabled validators:
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-13.56.17:917][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-13.56.17:917][551]AssetCheck: /Game/LevelPrototyping/Materials/M_PrototypeGlass Validating asset
+[2025.05.25-13.56.25:492][945]Cmd: EDIT COPY
+[2025.05.25-13.56.25:674][955]Cmd: EDIT PASTE
+[2025.05.25-13.56.27:414][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-13.56.49:503][245]Cmd: EDIT COPY
+[2025.05.25-13.56.49:687][253]Cmd: EDIT PASTE
+[2025.05.25-13.56.51:749][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-13.57.24:847][216]Cmd: TRANSACTION UNDO
+[2025.05.25-13.57.24:847][216]LogEditorTransaction: Undo Move Elements
+[2025.05.25-13.57.42:361][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-13.57.42:361][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-13.57.42:363][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BC6B02_1648241638
+[2025.05.25-13.57.42:364][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BC6B02_1648241638
+[2025.05.25-13.57.51:471][296]Cmd: TRANSACTION UNDO
+[2025.05.25-13.57.51:471][296]LogEditorTransaction: Undo Scale Elements
+[2025.05.25-13.57.52:190][321]Cmd: DELETE
+[2025.05.25-13.57.52:191][321]Cmd: ACTOR DELETE
+[2025.05.25-13.57.52:192][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-13.57.52:206][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.25-13.57.52:208][321]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.05.25-13.57.54:305][438]Cmd: EDIT COPY
+[2025.05.25-13.57.54:528][451]Cmd: EDIT PASTE
+[2025.05.25-13.57.57:455][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-13.57.59:077][709]Cmd: TRANSACTION UNDO
+[2025.05.25-13.57.59:077][709]LogEditorTransaction: Undo Move Elements
+[2025.05.25-13.58.32:251][614]LogContentBrowser: Attempting asset rename: M_PrototypeGlass1 -> M_PrototypeFloor
+[2025.05.25-13.58.32:403][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-13.58.32:403][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeFloor] ([1] browsable assets)...
+[2025.05.25-13.58.32:433][614]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Materials/M_PrototypeFloor.M_PrototypeFloor]
+[2025.05.25-13.58.32:433][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeFloor]
+[2025.05.25-13.58.32:441][614]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeFloor
+[2025.05.25-13.58.32:441][614]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/M_PrototypeFloor3B9A35DF454E65B4A6B4C388C43598D6.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/LevelPrototyping/Materials/M_PrototypeFloor.uasset'
+[2025.05.25-13.58.32:442][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.383 ms (total: 3.18 sec)
+[2025.05.25-13.58.32:461][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.25-13.58.32:476][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.25-13.58.32:491][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-13.58.32:616][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-13.58.32:616][614]LogContentValidation: Enabled validators:
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-13.58.32:616][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-13.58.32:617][614]AssetCheck: /Game/LevelPrototyping/Materials/M_PrototypeFloor Validating asset
+[2025.05.25-13.58.34:042][690]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Materials/M_PrototypeFloor.M_PrototypeFloor
+[2025.05.25-13.58.34:051][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: Shader Count: 0
+[2025.05.25-13.58.34:521][690]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Shader Count: 5
+[2025.05.25-13.58.34:681][692]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.58.37:271][809]LogShaderCompilers: Display: ================================================
+[2025.05.25-13.58.37:271][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.25-13.58.37:271][809]LogShaderCompilers: Display: Total job queries 192, among them cache hits 124 (64.58%), DDC hits 59 (30.73%), Duplicates 4 (2.08%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 50 distinct outputs (78.12%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: RAM used: 73,73 KiB of 819,20 MiB budget. Usage: 0.01%
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 2.57 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 2.60
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Shader code size: average 11,026 KiB, min 6,129 KiB, max 18,121 KiB
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.60 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.18%
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Average processing rate: 1.92 jobs/sec
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Total thread time: 3,608 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Total thread preprocess time: 3,72 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Percentage time preprocessing: 103.11%
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                             FDebugViewModePS - 36.21% of total time (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 26.97% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.14% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 10.01% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.67% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: === Material stats ===
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Materials Translated:    173
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: Material Cache Hits: 14 (8%)
+[2025.05.25-13.58.37:273][809]LogShaderCompilers: Display: ================================================
+[2025.05.25-13.58.37:498][820]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.25-13.58.50:527][404]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.25-13.58.50:533][404]LogShaderCompilers: Display: Cancelled job 0x0000059F71813200 with pending SubmitJob call.
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: Shader Count: 0
+[2025.05.25-13.58.50:543][404]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.58.50:544][404]LogShaderCompilers: Display: Cancelled job 0x0000059F71810000 with pending SubmitJob call.
+[2025.05.25-13.58.50:546][404]LogShaderCompilers: Display: Cancelled job 0x0000059F71814600 with pending SubmitJob call.
+[2025.05.25-13.58.50:549][404]LogShaderCompilers: Display: Cancelled job 0x0000059F71815A00 with pending SubmitJob call.
+[2025.05.25-13.58.50:553][404]LogShaderCompilers: Display: Cancelled job 0x0000059F71811400 with pending SubmitJob call.
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Shader Count: 5
+[2025.05.25-13.58.50:631][406]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2025.05.25-13.59.07:171][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-13.59.07:280][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.05.25-13.59.07:293][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.05.25-13.59.07:304][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-13.59.07:307][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V
+[2025.05.25-13.59.07:307][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/IIKNYCDUSAP0Z0FT7FSH6VB4F4074144FD7FFD62C28EAD5EE06A01.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V.uasset'
+[2025.05.25-13.59.07:310][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KM/6W7A6NCSVH28ITML6PS8PD
+[2025.05.25-13.59.07:311][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/6W7A6NCSVH28ITML6PS8PD5B789B3C4DA7A140637D308BD3A83983.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KM/6W7A6NCSVH28ITML6PS8PD.uasset'
+[2025.05.25-13.59.07:313][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1X/FSU73DYGGQ2H3N6TEQFI2U
+[2025.05.25-13.59.07:314][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/FSU73DYGGQ2H3N6TEQFI2U9CD7747B40C0A7A271A55EB39572463D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1X/FSU73DYGGQ2H3N6TEQFI2U.uasset'
+[2025.05.25-13.59.07:316][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/75/4T90L4BAJSJJNJWRJUU5BV
+[2025.05.25-13.59.07:316][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/4T90L4BAJSJJNJWRJUU5BVD0FCA78547772FAD00B765A2F47FB603.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/75/4T90L4BAJSJJNJWRJUU5BV.uasset'
+[2025.05.25-13.59.07:319][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QM/7CAXQYLE8Y5KOET30G2L1Y
+[2025.05.25-13.59.07:319][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/7CAXQYLE8Y5KOET30G2L1YAF9A8F45479743C2E144D593542E9262.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QM/7CAXQYLE8Y5KOET30G2L1Y.uasset'
+[2025.05.25-13.59.07:323][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MB/VC92NEXWJ86N6QI5BDWGUW
+[2025.05.25-13.59.07:323][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VC92NEXWJ86N6QI5BDWGUWE1E9AC0B474AD57262875B8915907707.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MB/VC92NEXWJ86N6QI5BDWGUW.uasset'
+[2025.05.25-13.59.07:326][328]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TK/IG3E4SR2VRJBSD7OJZS0EG
+[2025.05.25-13.59.07:326][328]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/IG3E4SR2VRJBSD7OJZS0EGBC44B58D4435B746CE70ECAE7F93ABDA.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TK/IG3E4SR2VRJBSD7OJZS0EG.uasset'
+[2025.05.25-13.59.07:345][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.905 ms (total: 3.35 sec)
+[2025.05.25-13.59.07:446][328]LogContentValidation: Display: Starting to validate 7 assets
+[2025.05.25-13.59.07:447][328]LogContentValidation: Enabled validators:
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-13.59.07:447][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-13.59.07:447][328]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-13.59.12:905][624]Cmd: EDIT COPY
+[2025.05.25-13.59.13:098][635]Cmd: EDIT PASTE
+[2025.05.25-13.59.15:637][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-13.59.24:633][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2392.588623
+[2025.05.25-13.59.24:817][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-13.59.24:817][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2392.756104, Update Interval: 337.301544
+[2025.05.25-13.59.26:298][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-14.01.09:926][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-14.01.13:304][450]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-14.01.14:354][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.01.14:366][512]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.01.14:366][512]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.01.14:374][512]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8.414 ms
+[2025.05.25-14.01.14:380][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.01.14:393][512]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2025.05.25-14.01.14:395][512]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.05.25-14.01.14:431][513]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.01.14:438][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007372s)
+[2025.05.25-14.01.14:438][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007468s)
+[2025.05.25-14.01.14:456][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.25-14.01.14:460][513]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.01.14:462][513]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.01.14:462][513]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.01.14:462][513]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.01.14:462][513]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.01.14:465][513]LogWorldPartition: Display: WorldPartition initialize took 2.912 ms (total: 21.768 ms)
+[2025.05.25-14.01.14:465][513]LogPlayLevel: PIE: World Init took: (0.005677s)
+[2025.05.25-14.01.14:467][513]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.01.14:467][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.01.14:467][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.01.14:467][513]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.01.14:467][513]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.01.14:467][513]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.01.14:470][513]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.01.14:482][513]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.01.14:483][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.01.14:483][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.01.14:483][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.01.14:483][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.25-14.01.14:483][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.25-14.01.14:486][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.25-14.01.14:487][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.25-14.01.14:487][513]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.25-14.01.14:487][513]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.05.25-14.01.14:487][513]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.25-14.01.14:497][513]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.01.14:502][513]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.01.14
+[2025.05.25-14.01.14:503][513]LogWorld: Bringing up level for play took: 0.003113
+[2025.05.25-14.01.14:585][513]PIE: Server logged in
+[2025.05.25-14.01.14:586][513]PIE: Play in editor total start time 0,224 seconds.
+[2025.05.25-14.01.19:251][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.01.19:251][768]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.01.19:253][768]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.01.19:255][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.01.19:255][768]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.01.19:265][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.01.19:268][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.01.19:279][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-14.01.19:284][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.25-14.01.19:287][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.25-14.01.19:290][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.25-14.01.19:297][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.01.19:303][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.05.25-14.01.19:368][769]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.05.25-14.01.47:241][184]Cmd: DELETE
+[2025.05.25-14.01.47:241][184]Cmd: ACTOR DELETE
+[2025.05.25-14.01.47:242][184]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-14.01.47:252][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.25-14.01.47:254][184]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.25-14.01.48:568][261]Cmd: TRANSACTION UNDO
+[2025.05.25-14.01.48:568][261]LogEditorTransaction: Undo Delete Elements
+[2025.05.25-14.01.56:673][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.25-14.01.57:828][525]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.25-14.01.57:945][525]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Av_Mare_de_Deu_de_Montserrat_no_furniture.Av_Mare_de_Deu_de_Montserrat_no_furniture
+	Asset Type: Texture2D
+[2025.05.25-14.01.58:068][525]LogMaterial: Warning: [AssetLog] C:\Users\marce\Documents\GitHub\UnrealEngine_Introductory_BlockOut\ld_First_BlockOut\Content\Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.25-14.01.58:068][525]LogMaterial: Warning: Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat: Requesting an invalid TextureIndex! (0 / 1)
+[2025.05.25-14.01.58:068][525]LogMaterial: Warning: [AssetLog] C:\Users\marce\Documents\GitHub\UnrealEngine_Introductory_BlockOut\ld_First_BlockOut\Content\Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.25-14.01.58:069][525]LogMaterial: Warning: [AssetLog] C:\Users\marce\Documents\GitHub\UnrealEngine_Introductory_BlockOut\ld_First_BlockOut\Content\Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1237845430 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JG/4KUXCV7WIOWMU675FXI53E.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1656759444 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1B/Q1KJ5L5625HRL5KYZSV0KP.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1511053439 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/67/8QXHJBRMXVOVQ3BBIVHLB5.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1701343446 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/O2ILL91IMMBAY368SID2NE.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1441755438 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KE/M93RAB4R4TUSSULVTO8YHL.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BB6B02_1309681433 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H2/L73SDZ3EZ2YUV4WTW4C73N.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BA6B02_1555409223 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/B3/GWKXWG5I2T0UEQMBK31YNJ.PackageMetaData in its package
+[2025.05.25-14.01.58:121][525]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D4939025BD88BC6B02_1648241638 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WA/F6HQYHWPIXK680KEYURVWA.PackageMetaData in its package
+[2025.05.25-14.01.58:123][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.25-14.01.58:135][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.25-14.01.58:147][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.25-14.01.58:220][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.05.25-14.01.59:668][592]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-14.01.59:767][592]LogInterchangeEngine: [Pending] Importing
+[2025.05.25-14.01.59:767][592]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marce/Downloads/T_FlatBlueprint.png]
+[2025.05.25-14.01.59:847][594]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-14.01.59:869][595]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.05.25-14.01.59:957][597]LogInterchangeEngine: Display: Interchange import completed [C:/Users/marce/Downloads/T_FlatBlueprint.png]
+[2025.05.25-14.01.59:963][597]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.25-14.01.59:963][597]LogInterchangeEngine: [Success] Import Done
+[2025.05.25-14.02.00:937][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.25-14.02.02:622][643]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.25-14.02.02:700][643]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat.Av_Mare_de_Deu_de_Montserrat_no_furniture_Mat
+	Asset Type: Material
+[2025.05.25-14.02.02:861][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.25-14.02.02:874][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.25-14.02.02:886][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.25-14.02.04:565][713]LogContentBrowser: Deferred new asset file creation: T_FlatBlueprint_Mat
+[2025.05.25-14.02.04:596][713]LogContentBrowser: Creating deferred item: T_FlatBlueprint_Mat
+[2025.05.25-14.02.04:614][714]LogContentBrowser: Renaming the item being created (Deferred Item: T_FlatBlueprint_Mat).
+[2025.05.25-14.02.05:330][757]LogContentBrowser: Attempting asset rename: T_FlatBlueprint_Mat -> T_FlatBlueprint_Mat
+[2025.05.25-14.02.05:336][757]LogContentBrowser: End creating deferred item T_FlatBlueprint_Mat
+[2025.05.25-14.02.06:586][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.02.06:668][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC] ([1] browsable assets)...
+[2025.05.25-14.02.06:668][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC]
+[2025.05.25-14.02.06:669][815]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC
+[2025.05.25-14.02.06:669][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/O1HBCAIOGYKE5W89K0N3EC3089DA3540A2DC721B294EB92FDDD771.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset'
+[2025.05.25-14.02.06:672][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V
+[2025.05.25-14.02.06:673][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/IIKNYCDUSAP0Z0FT7FSH6V50332ED149013E4B06000DB5FC7674A2.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V.uasset'
+[2025.05.25-14.02.06:676][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2025.05.25-14.02.06:676][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/W1SXRCM1KAKBJOIZDLHZ473659AF7048E44F170F889FA03885F76F.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2025.05.25-14.02.06:678][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/PH/5USL2GBYA5G53RX18UCV91] ([1] browsable assets)...
+[2025.05.25-14.02.06:678][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/PH/5USL2GBYA5G53RX18UCV91]
+[2025.05.25-14.02.06:679][815]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/PH/5USL2GBYA5G53RX18UCV91
+[2025.05.25-14.02.06:679][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/5USL2GBYA5G53RX18UCV91EBB2A8F846CFC8EA2946F2B819AFC032.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/PH/5USL2GBYA5G53RX18UCV91.uasset'
+[2025.05.25-14.02.06:682][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/75/4T90L4BAJSJJNJWRJUU5BV
+[2025.05.25-14.02.06:683][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/4T90L4BAJSJJNJWRJUU5BV8D64ABE944462E94FB34C7843E8B1958.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/75/4T90L4BAJSJJNJWRJUU5BV.uasset'
+[2025.05.25-14.02.06:684][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/HM/Z30AOEDSS8U0NFPABIISKN] ([1] browsable assets)...
+[2025.05.25-14.02.06:684][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/HM/Z30AOEDSS8U0NFPABIISKN]
+[2025.05.25-14.02.06:685][815]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/HM/Z30AOEDSS8U0NFPABIISKN
+[2025.05.25-14.02.06:685][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Z30AOEDSS8U0NFPABIISKN32BFB5AA48369EAEF271319B99957AC7.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/HM/Z30AOEDSS8U0NFPABIISKN.uasset'
+[2025.05.25-14.02.06:688][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7C/6P6ULNYTVLRAHVDXZ7GJOH
+[2025.05.25-14.02.06:688][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/6P6ULNYTVLRAHVDXZ7GJOHD12062DB411774E90C38C1B84CB9BDBB.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7C/6P6ULNYTVLRAHVDXZ7GJOH.uasset'
+[2025.05.25-14.02.06:692][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MB/VC92NEXWJ86N6QI5BDWGUW
+[2025.05.25-14.02.06:692][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VC92NEXWJ86N6QI5BDWGUW6099232D4A9FA4EBF57B2DA676A00F78.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MB/VC92NEXWJ86N6QI5BDWGUW.uasset'
+[2025.05.25-14.02.06:696][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QM/7CAXQYLE8Y5KOET30G2L1Y
+[2025.05.25-14.02.06:697][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/7CAXQYLE8Y5KOET30G2L1Y28520A0349603D4865522299E15276C4.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QM/7CAXQYLE8Y5KOET30G2L1Y.uasset'
+[2025.05.25-14.02.06:700][815]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TK/IG3E4SR2VRJBSD7OJZS0EG
+[2025.05.25-14.02.06:701][815]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/IG3E4SR2VRJBSD7OJZS0EGD3FD910C46126E7D4E8337B0B91BCABF.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TK/IG3E4SR2VRJBSD7OJZS0EG.uasset'
+[2025.05.25-14.02.06:724][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.251 ms (total: 3.49 sec)
+[2025.05.25-14.02.06:827][815]LogContentValidation: Display: Starting to validate 10 assets
+[2025.05.25-14.02.06:827][815]LogContentValidation: Enabled validators:
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-14.02.06:827][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-14.02.06:827][815]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-14.02.09:910][995]Cmd: TRANSACTION UNDO
+[2025.05.25-14.02.09:910][995]LogEditorTransaction: Undo Move Elements
+[2025.05.25-14.02.18:871][505]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-14.02.57:500][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.05.25-14.02.57:500][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.05.25-14.03.07:857][357]Cmd: EDIT COPY
+[2025.05.25-14.03.08:015][366]Cmd: EDIT PASTE
+[2025.05.25-14.03.09:610][456]Cmd: EDIT COPY
+[2025.05.25-14.03.09:772][465]Cmd: EDIT PASTE
+[2025.05.25-14.03.13:782][681]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.03.13:788][681]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.03.13:788][681]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.03.13:792][681]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.317 ms (total: 11.732 ms)
+[2025.05.25-14.03.13:792][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.03.13:792][681]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2025.05.25-14.03.13:795][681]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.05.25-14.03.13:822][682]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.13:826][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004002s)
+[2025.05.25-14.03.13:826][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004054s)
+[2025.05.25-14.03.13:840][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.25-14.03.13:842][682]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.03.13:844][682]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.03.13:846][682]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.03.13:846][682]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.03.13:846][682]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.03.13:846][682]LogWorldPartition: Display: WorldPartition initialize took 1.555 ms (total: 23.324 ms)
+[2025.05.25-14.03.13:846][682]LogPlayLevel: PIE: World Init took: (0.003651s)
+[2025.05.25-14.03.13:847][682]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.03.13:847][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.03.13:847][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.03.13:847][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.03.13:847][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.03.13:847][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.03.13:851][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.03.13:865][682]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.03.13:865][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.03.13:865][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.03.13:865][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.03.13:866][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.25-14.03.13:866][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.25-14.03.13:871][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.25-14.03.13:871][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.25-14.03.13:871][682]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.25-14.03.13:871][682]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.05.25-14.03.13:871][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.25-14.03.13:873][682]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.03.13:876][682]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.03.13
+[2025.05.25-14.03.13:876][682]LogWorld: Bringing up level for play took: 0.002184
+[2025.05.25-14.03.13:880][682]PIE: Server logged in
+[2025.05.25-14.03.13:882][682]PIE: Play in editor total start time 0,093 seconds.
+[2025.05.25-14.03.17:063][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.17:063][843]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.17:063][843]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.03.17:064][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.17:064][843]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.03.17:068][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.03.17:070][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.17:082][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.17:082][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.25-14.03.17:082][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.25-14.03.17:084][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.25-14.03.17:092][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.25-14.03.17:149][844]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.05.25-14.03.20:385][ 19]Cmd: DELETE
+[2025.05.25-14.03.20:385][ 19]Cmd: ACTOR DELETE
+[2025.05.25-14.03.20:386][ 19]LogEditorActor: Deleted Actor: PointLight
+[2025.05.25-14.03.20:397][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.25-14.03.20:399][ 19]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.05.25-14.03.20:880][ 43]Cmd: DELETE
+[2025.05.25-14.03.20:880][ 43]Cmd: ACTOR DELETE
+[2025.05.25-14.03.20:882][ 43]LogEditorActor: Deleted Actor: PointLight
+[2025.05.25-14.03.20:893][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.25-14.03.20:895][ 43]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.05.25-14.03.27:939][459]Cmd: EDIT COPY
+[2025.05.25-14.03.28:106][469]Cmd: EDIT PASTE
+[2025.05.25-14.03.29:377][540]Cmd: EDIT COPY
+[2025.05.25-14.03.29:520][548]Cmd: EDIT PASTE
+[2025.05.25-14.03.31:569][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.03.31:575][665]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.03.31:575][665]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.03.31:578][665]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.601 ms (total: 14.333 ms)
+[2025.05.25-14.03.31:578][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.03.31:578][665]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.05.25-14.03.31:581][665]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.05.25-14.03.31:610][666]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.31:614][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004567s)
+[2025.05.25-14.03.31:614][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004620s)
+[2025.05.25-14.03.31:624][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.25-14.03.31:627][666]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.03.31:629][666]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.03.31:629][666]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.03.31:629][666]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.03.31:629][666]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.03.31:630][666]LogWorldPartition: Display: WorldPartition initialize took 1.610 ms (total: 24.934 ms)
+[2025.05.25-14.03.31:630][666]LogPlayLevel: PIE: World Init took: (0.003480s)
+[2025.05.25-14.03.31:631][666]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.03.31:631][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.03.31:631][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.03.31:631][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.03.31:631][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.03.31:631][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.03.31:634][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.03.31:647][666]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.03.31:647][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.03.31:647][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.03.31:647][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.03.31:648][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.25-14.03.31:648][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.25-14.03.31:650][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.25-14.03.31:650][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.25-14.03.31:650][666]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.25-14.03.31:650][666]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.05.25-14.03.31:650][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.25-14.03.31:653][666]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.03.31:656][666]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.03.31
+[2025.05.25-14.03.31:656][666]LogWorld: Bringing up level for play took: 0.002516
+[2025.05.25-14.03.31:660][666]PIE: Server logged in
+[2025.05.25-14.03.31:662][666]PIE: Play in editor total start time 0,087 seconds.
+[2025.05.25-14.03.33:953][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.33:953][798]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.33:953][798]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.03.33:954][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.33:954][798]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.03.33:962][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.03.33:965][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.33:980][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.33:980][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.25-14.03.33:980][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.25-14.03.33:983][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.25-14.03.33:989][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.25-14.03.34:047][799]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.05.25-14.03.37:216][966]Cmd: EDIT COPY
+[2025.05.25-14.03.37:392][975]Cmd: EDIT PASTE
+[2025.05.25-14.03.40:096][127]Cmd: EDIT COPY
+[2025.05.25-14.03.40:292][138]Cmd: EDIT PASTE
+[2025.05.25-14.03.50:924][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.03.50:929][742]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.03.50:929][742]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.03.50:932][742]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.435 ms (total: 17.769 ms)
+[2025.05.25-14.03.50:933][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.03.50:933][742]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.05.25-14.03.50:935][742]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.05.25-14.03.50:969][743]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.50:974][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004674s)
+[2025.05.25-14.03.50:974][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004737s)
+[2025.05.25-14.03.50:985][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.25-14.03.50:987][743]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.03.50:989][743]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.03.50:989][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.03.50:989][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.03.50:989][743]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.03.50:990][743]LogWorldPartition: Display: WorldPartition initialize took 1.772 ms (total: 26.706 ms)
+[2025.05.25-14.03.50:990][743]LogPlayLevel: PIE: World Init took: (0.003831s)
+[2025.05.25-14.03.50:992][743]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.03.50:992][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.03.50:992][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.03.50:992][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.03.50:992][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.03.50:992][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.03.50:995][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.03.51:008][743]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.03.51:009][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.03.51:009][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.03.51:009][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.03.51:009][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.25-14.03.51:009][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.25-14.03.51:012][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.25-14.03.51:012][743]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.25-14.03.51:012][743]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.05.25-14.03.51:012][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.25-14.03.51:012][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.25-14.03.51:015][743]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.03.51:017][743]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.03.51
+[2025.05.25-14.03.51:018][743]LogWorld: Bringing up level for play took: 0.002449
+[2025.05.25-14.03.51:022][743]PIE: Server logged in
+[2025.05.25-14.03.51:023][743]PIE: Play in editor total start time 0,093 seconds.
+[2025.05.25-14.03.55:694][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.55:694][ 16]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.03.55:695][ 16]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.03.55:696][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.55:696][ 16]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.03.55:703][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.03.55:706][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.03.55:716][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.03.55:716][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.25-14.03.55:716][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.25-14.03.55:718][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.25-14.03.55:725][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.25-14.03.55:782][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.05.25-14.04.11:893][931]Cmd: EDIT COPY
+[2025.05.25-14.04.12:089][939]Cmd: EDIT PASTE
+[2025.05.25-14.04.17:549][244]Cmd: EDIT COPY
+[2025.05.25-14.04.17:716][254]Cmd: EDIT PASTE
+[2025.05.25-14.04.18:777][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.25-14.04.29:451][916]Cmd: EDIT COPY
+[2025.05.25-14.04.29:650][928]Cmd: EDIT PASTE
+[2025.05.25-14.04.32:611][ 81]Cmd: EDIT COPY
+[2025.05.25-14.04.32:618][ 81]Cmd: EDIT PASTE
+[2025.05.25-14.04.32:618][ 81]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.05.25-14.04.32:618][ 81]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.05.25-14.04.33:333][114]Cmd: EDIT PASTE
+[2025.05.25-14.04.36:355][281]Cmd: EDIT COPY
+[2025.05.25-14.04.36:528][288]Cmd: EDIT PASTE
+[2025.05.25-14.04.40:834][534]Cmd: EDIT COPY
+[2025.05.25-14.04.41:000][541]Cmd: EDIT PASTE
+[2025.05.25-14.04.49:065][972]Cmd: EDIT COPY
+[2025.05.25-14.04.49:248][982]Cmd: EDIT PASTE
+[2025.05.25-14.04.55:979][361]Cmd: EDIT COPY
+[2025.05.25-14.04.56:119][369]Cmd: EDIT PASTE
+[2025.05.25-14.05.01:263][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.05.01:376][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.25-14.05.01:399][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.25-14.05.01:415][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.25-14.05.01:420][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V
+[2025.05.25-14.05.01:422][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/IIKNYCDUSAP0Z0FT7FSH6VD6539B154A921CB3D14647A03AEF45FE.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S1/IIKNYCDUSAP0Z0FT7FSH6V.uasset'
+[2025.05.25-14.05.01:429][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G
+[2025.05.25-14.05.01:429][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/J59PXEEZ6YTRH5VLQKSY8G6FAFDA1D48E472F04BD62DA928C92BAC.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G.uasset'
+[2025.05.25-14.05.01:434][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5
+[2025.05.25-14.05.01:434][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/K05JXKHMXDGT7WXD50IFU58E183BB5483272A21E97C0B894714213.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5.uasset'
+[2025.05.25-14.05.01:440][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE
+[2025.05.25-14.05.01:440][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9CKKXK5FVWYBTUYZOSADPEF58E1D97451270A5BF021F903CC99AD9.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE.uasset'
+[2025.05.25-14.05.01:445][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A
+[2025.05.25-14.05.01:445][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/JT5MQR51XLA735SG3UXV5A18E9B55C4D97158E37A35FACE47D975A.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A.uasset'
+[2025.05.25-14.05.01:451][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B
+[2025.05.25-14.05.01:451][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/634TJ9EN3CQHW3MU3QPL2B1B5E1D7D438CDD49E2936493BFE42232.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B.uasset'
+[2025.05.25-14.05.01:456][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P
+[2025.05.25-14.05.01:456][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VD5R94GBBFJX5POMRN233P77AF6B3C485BD7F04CE268881C27657B.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P.uasset'
+[2025.05.25-14.05.01:460][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY
+[2025.05.25-14.05.01:460][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9AOXR07YYDKA9TI1TL86QY04B60AF049FC57C91A0A32A59BB98E0D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY.uasset'
+[2025.05.25-14.05.01:465][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI
+[2025.05.25-14.05.01:465][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/MM7PD0LCBEF79SNJ52T1RI6E1554C54C6AF5B3A16C11A134CCF9A9.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI.uasset'
+[2025.05.25-14.05.01:470][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE
+[2025.05.25-14.05.01:470][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/29QZBG9SBOHWNTC6DPUHAEE993D9AC4E6BF9188F2CFC9D47E325D2.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE.uasset'
+[2025.05.25-14.05.01:476][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H
+[2025.05.25-14.05.01:476][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VREMRQ5MUEO4EC67I8RZ9HEB1288A94C8D63533375208F202C5B7E.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H.uasset'
+[2025.05.25-14.05.01:482][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2
+[2025.05.25-14.05.01:482][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/EMUN9I015FO6ZLU366DHB23637BE30435E06ED16DA258455B32CAE.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2.uasset'
+[2025.05.25-14.05.01:487][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z
+[2025.05.25-14.05.01:487][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/KDQN89BMHDVXS6178FM17Z5CC6D416444FB0570B14E3A20A804FDC.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z.uasset'
+[2025.05.25-14.05.01:492][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW
+[2025.05.25-14.05.01:492][670]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/OAGSJSC84C8UDW9LI3W1CWE48705094B5DADDF66BE838524DF4C8F.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW.uasset'
+[2025.05.25-14.05.01:513][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.567 ms (total: 3.74 sec)
+[2025.05.25-14.05.01:617][670]LogContentValidation: Display: Starting to validate 14 assets
+[2025.05.25-14.05.01:617][670]LogContentValidation: Enabled validators:
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-14.05.01:618][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-14.05.01:618][670]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-14.05.01:712][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.05.01:719][672]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.05.01:719][672]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.05.01:723][672]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.690 ms (total: 21.459 ms)
+[2025.05.25-14.05.01:723][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.05.01:724][672]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.05.25-14.05.01:727][672]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.05.25-14.05.01:767][673]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.05.01:774][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006837s)
+[2025.05.25-14.05.01:774][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006894s)
+[2025.05.25-14.05.01:789][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.25-14.05.01:792][673]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.05.01:793][673]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.05.01:793][673]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.05.01:793][673]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.05.01:793][673]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.05.01:795][673]LogWorldPartition: Display: WorldPartition initialize took 1.916 ms (total: 28.623 ms)
+[2025.05.25-14.05.01:795][673]LogPlayLevel: PIE: World Init took: (0.003832s)
+[2025.05.25-14.05.01:796][673]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.05.01:796][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.05.01:797][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.05.01:797][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.05.01:797][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.05.01:797][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.05.01:799][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.05.01:813][673]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.05.01:813][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.05.01:813][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.05.01:813][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.05.01:814][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.25-14.05.01:814][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.25-14.05.01:817][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.25-14.05.01:817][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.25-14.05.01:817][673]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.25-14.05.01:817][673]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2025.05.25-14.05.01:817][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.25-14.05.01:820][673]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.05.01:823][673]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.05.01
+[2025.05.25-14.05.01:823][673]LogWorld: Bringing up level for play took: 0.002882
+[2025.05.25-14.05.01:827][673]PIE: Server logged in
+[2025.05.25-14.05.01:828][673]PIE: Play in editor total start time 0,109 seconds.
+[2025.05.25-14.05.16:583][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.05.16:583][553]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.05.16:583][553]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.05.16:585][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.05.16:585][553]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.05.16:590][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.05.16:593][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.05.16:609][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.05.16:610][553]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.25-14.05.16:610][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.25-14.05.16:612][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.25-14.05.16:620][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.25-14.05.16:670][555]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.05.25-14.05.20:992][791]Cmd: EDIT COPY
+[2025.05.25-14.05.21:163][801]Cmd: EDIT PASTE
+[2025.05.25-14.05.34:060][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2762.013916
+[2025.05.25-14.05.35:059][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-14.05.35:059][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2762.681152, Update Interval: 322.833954
+[2025.05.25-14.05.55:852][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.25-14.05.55:862][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G_Auto2
+[2025.05.25-14.05.55:862][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/J59PXEEZ6YTRH5VLQKSY8G_Auto24E7BA4A6482BC9946A7E4489F97BA0F7.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G_Auto2.uasset'
+[2025.05.25-14.05.55:867][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5_Auto2
+[2025.05.25-14.05.55:867][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/K05JXKHMXDGT7WXD50IFU5_Auto28CFE9D774D756ABBB39561A664A10FFB.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5_Auto2.uasset'
+[2025.05.25-14.05.55:871][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE_Auto2
+[2025.05.25-14.05.55:871][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9CKKXK5FVWYBTUYZOSADPE_Auto2F03A9BBE4064B2C419B5C398C65B25C3.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE_Auto2.uasset'
+[2025.05.25-14.05.55:876][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A_Auto2
+[2025.05.25-14.05.55:876][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/JT5MQR51XLA735SG3UXV5A_Auto28B598B4340F5DF8394A38C9620FB145F.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A_Auto2.uasset'
+[2025.05.25-14.05.55:881][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B_Auto2
+[2025.05.25-14.05.55:881][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/634TJ9EN3CQHW3MU3QPL2B_Auto2E61BC27940B3464D13F6DC9FA1854649.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B_Auto2.uasset'
+[2025.05.25-14.05.55:887][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P_Auto2
+[2025.05.25-14.05.55:887][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VD5R94GBBFJX5POMRN233P_Auto218E06E0D47887568F0124DAB500AF95D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P_Auto2.uasset'
+[2025.05.25-14.05.55:892][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY_Auto2
+[2025.05.25-14.05.55:892][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9AOXR07YYDKA9TI1TL86QY_Auto23B34547043CDF1E24DAE17835D4B0648.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY_Auto2.uasset'
+[2025.05.25-14.05.55:898][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI_Auto2
+[2025.05.25-14.05.55:898][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/MM7PD0LCBEF79SNJ52T1RI_Auto21C148C37460129B0D910CFB80CD7AB02.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI_Auto2.uasset'
+[2025.05.25-14.05.55:906][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE_Auto2
+[2025.05.25-14.05.55:906][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/29QZBG9SBOHWNTC6DPUHAE_Auto267C2095C4B410F7E0787BFAE0A0595E1.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE_Auto2.uasset'
+[2025.05.25-14.05.55:911][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H_Auto2
+[2025.05.25-14.05.55:912][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VREMRQ5MUEO4EC67I8RZ9H_Auto2466951314605F1D3D1AA0591A4F181C1.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H_Auto2.uasset'
+[2025.05.25-14.05.55:918][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2_Auto2
+[2025.05.25-14.05.55:918][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/EMUN9I015FO6ZLU366DHB2_Auto2AF97F736400CF464AA55AAA81C5C9951.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2_Auto2.uasset'
+[2025.05.25-14.05.55:924][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z_Auto2
+[2025.05.25-14.05.55:924][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/KDQN89BMHDVXS6178FM17Z_Auto28BF6E530466589857E7995AF365F14E3.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z_Auto2.uasset'
+[2025.05.25-14.05.55:931][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW_Auto2
+[2025.05.25-14.05.55:932][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/OAGSJSC84C8UDW9LI3W1CW_Auto272BF1FFA4D8340E19C8F679F17FF2F68.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW_Auto2.uasset'
+[2025.05.25-14.05.55:936][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XD/PZ0OCO5VAWY8D6KAAZNA3F_Auto2
+[2025.05.25-14.05.55:936][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/PZ0OCO5VAWY8D6KAAZNA3F_Auto27CB25E404766B20EB1B0A7B59297A762.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XD/PZ0OCO5VAWY8D6KAAZNA3F_Auto2.uasset'
+[2025.05.25-14.05.55:938][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.102
+[2025.05.25-14.05.55:938][566]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2025.05.25-14.05.55:938][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/T_FlatBlueprint] ([1] browsable assets)...
+[2025.05.25-14.05.55:941][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/T_FlatBlueprint.T_FlatBlueprint]
+[2025.05.25-14.05.55:941][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/T_FlatBlueprint]
+[2025.05.25-14.05.55:947][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/T_FlatBlueprint_Auto2
+[2025.05.25-14.05.55:947][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/T_FlatBlueprint_Auto2B57638E946073590BE4787A5B1180285.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/T_FlatBlueprint_Auto2.uasset'
+[2025.05.25-14.05.55:949][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/T_FlatBlueprint_Mat] ([1] browsable assets)...
+[2025.05.25-14.05.56:135][566]OBJ SavePackage:     Rendered thumbnail for [Material /Game/T_FlatBlueprint_Mat.T_FlatBlueprint_Mat]
+[2025.05.25-14.05.56:135][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/T_FlatBlueprint_Mat]
+[2025.05.25-14.05.56:140][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/T_FlatBlueprint_Mat_Auto2
+[2025.05.25-14.05.56:140][566]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/T_FlatBlueprint_Mat_Auto2D5848EFF4107D736159307914D7BA322.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/Autosaves/Game/T_FlatBlueprint_Mat_Auto2.uasset'
+[2025.05.25-14.05.56:142][566]LogFileHelpers: Auto-saving content packages took 0.205
+[2025.05.25-14.06.24:074][710]LogSlate: Window 'Message' being destroyed
+[2025.05.25-14.06.24:091][710]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LevelPrototyping/Materials/M_PrototypeFloor.M_PrototypeFloor
+(Selecting 'No' will cause all changes to be lost!)
+[2025.05.25-14.06.24:182][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.05.25-14.06.24:394][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-14.06.24:444][710]LogSlate: Window 'M_PrototypeFloor' being destroyed
+[2025.05.25-14.06.24:447][710]LogSlate: Window 'M_PrototypeFloor' being destroyed
+[2025.05.25-14.06.25:878][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.06.25:975][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.25-14.06.25:998][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.05.25-14.06.26:009][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.05.25-14.06.26:013][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G
+[2025.05.25-14.06.26:013][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/J59PXEEZ6YTRH5VLQKSY8G3C114E7D4A8980635A84928E73B8C3DD.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MU/J59PXEEZ6YTRH5VLQKSY8G.uasset'
+[2025.05.25-14.06.26:015][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5
+[2025.05.25-14.06.26:016][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/K05JXKHMXDGT7WXD50IFU515E541004ACABCC36565BC90338C73CD.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TS/K05JXKHMXDGT7WXD50IFU5.uasset'
+[2025.05.25-14.06.26:018][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE
+[2025.05.25-14.06.26:019][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9CKKXK5FVWYBTUYZOSADPEA605CA924011D42148759AA0FCF223CB.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8E/9CKKXK5FVWYBTUYZOSADPE.uasset'
+[2025.05.25-14.06.26:021][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A
+[2025.05.25-14.06.26:021][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/JT5MQR51XLA735SG3UXV5A2375048841DFF0D8A732969C687BDF5D.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PM/JT5MQR51XLA735SG3UXV5A.uasset'
+[2025.05.25-14.06.26:024][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B
+[2025.05.25-14.06.26:025][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/634TJ9EN3CQHW3MU3QPL2B82064723420E7385621816AE1E8F301A.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HG/634TJ9EN3CQHW3MU3QPL2B.uasset'
+[2025.05.25-14.06.26:027][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P
+[2025.05.25-14.06.26:027][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VD5R94GBBFJX5POMRN233P4A929D1E488E9E57683582BD84FA5CA5.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NF/VD5R94GBBFJX5POMRN233P.uasset'
+[2025.05.25-14.06.26:030][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY
+[2025.05.25-14.06.26:030][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/9AOXR07YYDKA9TI1TL86QYE330297041F5F5B42F56689F624ADDB3.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6Z/9AOXR07YYDKA9TI1TL86QY.uasset'
+[2025.05.25-14.06.26:033][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI
+[2025.05.25-14.06.26:033][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/MM7PD0LCBEF79SNJ52T1RIA7EEA9DE44D6BE99EE254BBB25DBDD82.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GY/MM7PD0LCBEF79SNJ52T1RI.uasset'
+[2025.05.25-14.06.26:036][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE
+[2025.05.25-14.06.26:037][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/29QZBG9SBOHWNTC6DPUHAE6A7F9BB14DE9154BFA27B8A9CDE29A1E.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HV/29QZBG9SBOHWNTC6DPUHAE.uasset'
+[2025.05.25-14.06.26:039][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H
+[2025.05.25-14.06.26:039][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/VREMRQ5MUEO4EC67I8RZ9H585B3FAD44F118C60FF72FA571BC92DB.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LD/VREMRQ5MUEO4EC67I8RZ9H.uasset'
+[2025.05.25-14.06.26:042][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2
+[2025.05.25-14.06.26:043][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/EMUN9I015FO6ZLU366DHB2451DBCE84374CDE013CF2EAEFD0ABFAD.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WJ/EMUN9I015FO6ZLU366DHB2.uasset'
+[2025.05.25-14.06.26:045][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z
+[2025.05.25-14.06.26:046][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/KDQN89BMHDVXS6178FM17Z923B9B464554BF1859DA979AC5035302.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YT/KDQN89BMHDVXS6178FM17Z.uasset'
+[2025.05.25-14.06.26:048][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW
+[2025.05.25-14.06.26:049][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/OAGSJSC84C8UDW9LI3W1CW47F844604AEFE0A703785AA10D0D28CE.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/87/OAGSJSC84C8UDW9LI3W1CW.uasset'
+[2025.05.25-14.06.26:052][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XD/PZ0OCO5VAWY8D6KAAZNA3F
+[2025.05.25-14.06.26:052][783]LogSavePackage: Moving '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Saved/PZ0OCO5VAWY8D6KAAZNA3F16C57F724BAE6A3A131919BADBCBEB9C.tmp' to '../../../../../../Users/marce/Documents/GitHub/UnrealEngine_Introductory_BlockOut/ld_First_BlockOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XD/PZ0OCO5VAWY8D6KAAZNA3F.uasset'
+[2025.05.25-14.06.26:069][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.716 ms (total: 3.93 sec)
+[2025.05.25-14.06.26:167][783]LogContentValidation: Display: Starting to validate 14 assets
+[2025.05.25-14.06.26:167][783]LogContentValidation: Enabled validators:
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-14.06.26:167][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-14.06.26:167][783]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.25-14.06.26:585][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.06.26:591][803]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.06.26:591][803]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.06.26:593][803]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.659 ms (total: 24.119 ms)
+[2025.05.25-14.06.26:594][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.06.26:594][803]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.05.25-14.06.26:596][803]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.05.25-14.06.26:631][804]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.06.26:635][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2025.05.25-14.06.26:636][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005074s)
+[2025.05.25-14.06.26:645][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.25-14.06.26:648][804]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.06.26:650][804]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.06.26:650][804]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.06.26:650][804]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.06.26:650][804]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.06.26:652][804]LogWorldPartition: Display: WorldPartition initialize took 1.890 ms (total: 30.513 ms)
+[2025.05.25-14.06.26:652][804]LogPlayLevel: PIE: World Init took: (0.003688s)
+[2025.05.25-14.06.26:652][804]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.06.26:653][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.06.26:653][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.06.26:653][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.06.26:653][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.06.26:653][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.06.26:655][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.06.26:666][804]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.06.26:666][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.06.26:666][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.06.26:666][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.06.26:667][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.25-14.06.26:667][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.25-14.06.26:669][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.25-14.06.26:669][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.25-14.06.26:669][804]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.25-14.06.26:669][804]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.05.25-14.06.26:669][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.25-14.06.26:673][804]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.06.26:676][804]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.06.26
+[2025.05.25-14.06.26:676][804]LogWorld: Bringing up level for play took: 0.002233
+[2025.05.25-14.06.26:679][804]PIE: Server logged in
+[2025.05.25-14.06.26:681][804]PIE: Play in editor total start time 0,09 seconds.
+[2025.05.25-14.06.33:152][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.06.33:152][128]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.06.33:153][128]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.06.33:153][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.06.33:153][128]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.06.33:157][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.06.33:159][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.06.33:171][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.06.33:172][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.25-14.06.33:172][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.25-14.06.33:174][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.25-14.06.33:179][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.25-14.06.33:246][129]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.05.25-14.06.38:291][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-14.06.38:441][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.25-14.06.38:453][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.25-14.06.38:465][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.25-14.06.38:485][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.398 ms (total: 4.12 sec)
+[2025.05.25-14.06.40:326][525]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.06.40:332][525]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.06.40:332][525]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.06.40:335][525]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.595 ms (total: 27.715 ms)
+[2025.05.25-14.06.40:336][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.06.40:336][525]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.05.25-14.06.40:338][525]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.05.25-14.06.40:375][526]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.06.40:382][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2025.05.25-14.06.40:382][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006011s)
+[2025.05.25-14.06.40:394][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.05.25-14.06.40:396][526]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.06.40:399][526]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.06.40:399][526]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.06.40:399][526]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.06.40:399][526]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.06.40:400][526]LogWorldPartition: Display: WorldPartition initialize took 1.691 ms (total: 32.205 ms)
+[2025.05.25-14.06.40:400][526]LogPlayLevel: PIE: World Init took: (0.003551s)
+[2025.05.25-14.06.40:401][526]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.06.40:401][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.06.40:401][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.06.40:401][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.06.40:401][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.06.40:401][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.06.40:404][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.06.40:416][526]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.06.40:416][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.06.40:416][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.06.40:416][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.06.40:417][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.25-14.06.40:417][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.05.25-14.06.40:421][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.25-14.06.40:421][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.25-14.06.40:421][526]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.25-14.06.40:421][526]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2025.05.25-14.06.40:421][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.25-14.06.40:423][526]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.06.40:426][526]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.06.40
+[2025.05.25-14.06.40:426][526]LogWorld: Bringing up level for play took: 0.002582
+[2025.05.25-14.06.40:429][526]PIE: Server logged in
+[2025.05.25-14.06.40:431][526]PIE: Play in editor total start time 0,099 seconds.
+[2025.05.25-14.06.53:092][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.06.53:092][279]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.06.53:093][279]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.06.53:094][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.06.53:094][279]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.06.53:102][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.06.53:104][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.06.53:113][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.06.53:113][279]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.25-14.06.53:113][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.25-14.06.53:116][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.25-14.06.53:126][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.05.25-14.06.53:196][280]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.05.25-14.07.09:017][201]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-14.07.09:024][201]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.25-14.07.09:024][201]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.25-14.07.09:027][201]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.307 ms (total: 31.023 ms)
+[2025.05.25-14.07.09:027][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-14.07.09:027][201]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.05.25-14.07.09:031][201]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.05.25-14.07.09:090][202]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.07.09:096][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004657s)
+[2025.05.25-14.07.09:096][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004707s)
+[2025.05.25-14.07.09:109][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.25-14.07.09:112][202]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.25-14.07.09:113][202]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.25-14.07.09:113][202]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.25-14.07.09:113][202]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.25-14.07.09:113][202]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.25-14.07.09:115][202]LogWorldPartition: Display: WorldPartition initialize took 1.736 ms (total: 33.942 ms)
+[2025.05.25-14.07.09:115][202]LogPlayLevel: PIE: World Init took: (0.003577s)
+[2025.05.25-14.07.09:116][202]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-14.07.09:116][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-14.07.09:116][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-14.07.09:116][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-14.07.09:116][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-14.07.09:116][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-14.07.09:119][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-14.07.09:132][202]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.25-14.07.09:133][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-14.07.09:133][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-14.07.09:133][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-14.07.09:134][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.25-14.07.09:134][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.25-14.07.09:136][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.25-14.07.09:138][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.25-14.07.09:138][202]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.25-14.07.09:138][202]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2025.05.25-14.07.09:138][202]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.25-14.07.09:141][202]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.25-14.07.09:144][202]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.25-16.07.09
+[2025.05.25-14.07.09:145][202]LogWorld: Bringing up level for play took: 0.003319
+[2025.05.25-14.07.09:149][202]PIE: Server logged in
+[2025.05.25-14.07.09:149][202]PIE: Play in editor total start time 0,126 seconds.
+[2025.05.25-14.07.28:123][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.07.28:123][978]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.25-14.07.28:123][978]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-14.07.28:125][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.07.28:125][978]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.25-14.07.28:133][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-14.07.28:136][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-14.07.28:153][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-14.07.28:154][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.25-14.07.28:154][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.25-14.07.28:159][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.25-14.07.28:177][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.25-14.07.28:269][979]LogPlayLevel: Display: Destroying online subsystem :Context_14
